@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SmartTech Solutions</title>
+    <title>ShadowzeeTech-solution</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,12 +18,12 @@
     <!-- Features Section -->
     <section class="features">
         <div class="feature">
-            <img src="imaga/icon1.JPG" alt="Feature 1 Icon">
+            <img src="images/icon1.JPG" alt="Feature 1 Icon">
             <h3>Fast Support</h3>
             <p>24/7 customer support to keep your business running smoothly.</p>
         </div>
         <div class="feature">
-            <img src="image/icon2.JPG" alt="Feature 2 Icon">
+            <img src="images/icon2.JPG" alt="Feature 2 Icon">
             <h3>Cloud Storage</h3>
             <p>Secure cloud storage solutions for your growing needs.</p>
         </div>
